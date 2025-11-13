@@ -375,6 +375,7 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 - [Xiao2025] Graph-Enhanced Multi-Scale Contrastive Learning for Graph Anomaly Detection with Adaptive Diffusion Models  in *TBD*, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10982168)[\[code\]](https://github.com/TY-Tongyao/GCLAD)
 
 - [Jin2025] Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.18002)[\[code\]]()
+- # done
 
 
 ### Graph Representation Distillation 
